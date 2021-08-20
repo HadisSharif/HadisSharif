@@ -3,6 +3,7 @@
 <h3 align="center">React Native Developer</h3>
 <!-- ### Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 I'm Hadis Sharif. I'm a React Native Developer -->
+###
 - 🌱 I’m currently learning TypeScript
 - ⛱️ In my free time, I read books, watch animes and play video games
 
