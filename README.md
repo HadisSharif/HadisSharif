@@ -3,8 +3,6 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Hadis Sharif</h1>
 <h3 align="center">React Native Developer</h3>
 </p>
-### Hi there
-I'm Hadis Sharif
 - 🌱 I’m currently learning TypeScript
 - ⛱️ In my free time, I read books, watch animes and play video games
 🛠  Tech Stack
