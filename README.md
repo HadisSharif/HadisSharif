@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Hadis Sharif. I'm a React Native Developer
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+- 🌱 I’m currently learning TypeScript
 -  ✍️  In my free time, I watch animes and play video games
 
 🛠  Tech Stack
@@ -19,6 +19,12 @@ I'm Hadis Sharif. I'm a React Native Developer
     <a><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> </a>
     <a><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> </a>
     <a><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /> </a>
+  - 🛢 &nbsp;
+    ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  <img src="" />
+  <img src="" />
+  <img src="" />
+  <img src="" />
 </p>
 
 
