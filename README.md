@@ -6,17 +6,17 @@
 
 <p align="left">
 💻 I’m currently working on React Native apps & PWA
-  <br/>
-💡 I'm a Self-Motivated developer I love learning new technologies 
- <br/>
+<br/>
+💡  I'm a Self-Motivated developer I love learning new technologies 
+<br/>
 🌱 I’m currently learning TypeScript
- <br/>
+<br/>
 🔭 Looking for new oppurtunies and collaborations
 <br/>
 ⛱️ In my free time, I read books, watch animes and play video games   
- <br/>
+<br/>
 🏰 Hogwarts House : Gryffindor 🦁
-    </p>
+</p>
 
  <h2 align="center"> 🛠 Tech Stack</h2>
 
