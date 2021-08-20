@@ -5,7 +5,7 @@ I'm Hadis Sharif. I'm a React Native Developer
 -  ✍️  In my free time, I watch animes and play video games
 
 🛠  Tech Stack
-
+<!-- 
 <p align="center">
 <a><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
   <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
@@ -23,7 +23,7 @@ I'm Hadis Sharif. I'm a React Native Developer
   <img src="" />
   <img src="" />
   <img src="" /> -->
-</p>
+</p> -->
   - 🛢 &nbsp;
     ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
@@ -31,15 +31,4 @@ I'm Hadis Sharif. I'm a React Native Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadis-sharif-83a64a36/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hadis.sharif@gmail.com) 
-
-
-<!-- <img src="" /><img src=""/><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><img src=""/><img src="" />
- -->
-<!-- ÷<img src="" /> -->
-
-<!-- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/> -->
-<!-- <img src=""/> -->
-
-
 
