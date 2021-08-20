@@ -7,9 +7,13 @@
 <p align="left">
  - 🔭 I’m currently working on React Native apps & PWA
   <br/>
+-💻 I'm a Self-Motivated developer I love learning new technologies 
+ <br/>
  - 🌱 I’m currently learning TypeScript
  <br/>
 - ⛱️ In my free time, I read books, watch animes and play video games   
+ <br/>
+ - <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/house.png" width="20px" height="20px"/>  𝙷𝚘𝚐𝚠𝚊𝚛𝚝𝚜 𝙷𝚘𝚞𝚜𝚎 : **Gryffindor** 🦁
     </p>
 
  <h2 align="center"> 🛠 Tech Stack</h2>
