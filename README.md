@@ -1,7 +1,7 @@
 
 <p>
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Hadis Sharif</h1>
-<h2 align="center">React Native Developer</h3>
+<h2 align="center">React Native Developer</h2>
 </p>
 
 <p align="left">
@@ -10,7 +10,7 @@
 - ⛱️ In my free time, I read books, watch animes and play video games   
     </p>
 
-🛠  Tech Stack
+🛠 <h2 align="center"> Tech Stack</h2>
 
 <p align="center">
     <a><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
