@@ -5,12 +5,14 @@
 </p>
 
 <p align="left">
-🔭 I’m currently working on React Native apps & PWA
+💻 I’m currently working on React Native apps & PWA
   <br/>
-💻 I'm a Self-Motivated developer I love learning new technologies 
+💡 I'm a Self-Motivated developer I love learning new technologies 
  <br/>
 🌱 I’m currently learning TypeScript
  <br/>
+🔭 Looking for new oppurtunies and collaborations
+<br/>
 ⛱️ In my free time, I read books, watch animes and play video games   
  <br/>
 🏰 Hogwarts House : Gryffindor 🦁
