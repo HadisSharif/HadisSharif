@@ -5,6 +5,7 @@
 </p>
 
 <p align="left">
+ - 🔭 I’m currently working on React Native apps & PWA
  - 🌱 I’m currently learning TypeScript
  <br/>
 - ⛱️ In my free time, I read books, watch animes and play video games   
