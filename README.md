@@ -14,7 +14,7 @@
     🔭 Looking for new oppurtunies and collaborations
     <br />
     📄 Here's my <a
-        href="https://github.com/HadisSharif/HadisSharif/blob/main/Fatemeh%20Sharif-React%20Native%20Developer%20Resume.pdf">resume</a>
+        href="https://github.com/HadisSharif/HadisSharif/raw/main/Fatemeh%20Sharif-React%20Native%20Developer%20Resume.pdf">resume</a>
     <br />
     ⛱️ In my free time, I read books, watch animes and play video games
     <br />
