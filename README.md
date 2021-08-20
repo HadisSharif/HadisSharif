@@ -13,6 +13,8 @@
 <br/>
 🔭 Looking for new oppurtunies and collaborations
 <br/>
+ 📄  Here's my resume   
+<br/>
 ⛱️ In my free time, I read books, watch animes and play video games   
 <br/>
 🏰 Hogwarts House : Gryffindor 🦁
@@ -26,7 +28,7 @@
     <a><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
     <a><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> </a>
-    <a><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> </a>
+   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
     <a><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /> </a>
     <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
     <br />
