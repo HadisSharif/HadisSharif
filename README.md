@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+
 
 I'm Hadis Sharif. I'm a React Native Developer
 - 🌱 I’m currently learning TypeScript
