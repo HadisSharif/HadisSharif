@@ -24,8 +24,7 @@ I'm Hadis Sharif. I'm a React Native Developer
   <img src="" />
   <img src="" /> -->
 </p> -->
-  - 🛢 &nbsp;
-    ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  - 🛢 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 🤝🏻  Feel Free to Contact me.....
 
