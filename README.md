@@ -7,7 +7,7 @@
 <p align="left">
 💻 I’m currently working on React Native apps & PWA
 <br/>
- 💡 I'm a Self-Motivated developer I love learning new technologies 
+  💡 I'm a Self-Motivated developer I love learning new technologies 
 <br/>
 🌱 I’m currently learning TypeScript
 <br/>
@@ -62,8 +62,4 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/hadis-sharif-83a64a36/">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hadis.sharif@gmail.com">  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
- <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadis-sharif-83a64a36/) -->
-<!-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hadis.sharif@gmail.com)  -->
-
 </p>
