@@ -12,12 +12,17 @@ I'm Hadis Sharif. I'm a React Native Developer
   <a><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
     <a><img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white"/></a>
+  <a><img src="" /> </a>
+  
+    <a><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> </a>
+    <a><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> </a>
+    <a><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)" /> </a>
+    <a><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=whit" /> </a>
+    <a><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> </a>
+    <a><img src="" /> </a>
+    <a><img src="" /> </a>
 </p>
-<!-- <p id="socialIcons" align="center"> -->
-|![]()|![]()|![]()|![]()|![]()|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)|![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|![](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)|![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=whit)|![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)|
-<!-- </p> -->
+
 <!-- <h3 align="center">My Skills Are:</h3>
 <div class="center"> 
  /> <img src="" /><img src="" />
