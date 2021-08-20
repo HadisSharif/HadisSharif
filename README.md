@@ -6,6 +6,7 @@
 
 <p align="left">
  - 🌱 I’m currently learning TypeScript
+ <br/>
 - ⛱️ In my free time, I read books, watch animes and play video games   
     </p>
 
