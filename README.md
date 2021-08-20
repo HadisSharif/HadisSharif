@@ -13,7 +13,7 @@
  <br/>
 - ⛱️ In my free time, I read books, watch animes and play video games   
  <br/>
- - 🏰 𝙷𝚘𝚐𝚠𝚊𝚛𝚝𝚜 𝙷𝚘𝚞𝚜𝚎 : Gryffindor 🦁
+ - 🏰 Hogwarts House : Gryffindor 🦁
     </p>
 
  <h2 align="center"> 🛠 Tech Stack</h2>
