@@ -2,7 +2,7 @@
 
 I'm Hadis Sharif. I'm a React Native Developer
 - 🌱 I’m currently learning TypeScript
--  ✍️  In my free time, I watch animes and play video games
+- ⛱️ In my free time, I read books, watch animes and play video games
 
 🛠  Tech Stack
 
