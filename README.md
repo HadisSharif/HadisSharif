@@ -5,15 +5,15 @@
 </p>
 
 <p align="left">
- - 🔭 I’m currently working on React Native apps & PWA
+🔭 I’m currently working on React Native apps & PWA
   <br/>
--💻 I'm a Self-Motivated developer I love learning new technologies 
+💻 I'm a Self-Motivated developer I love learning new technologies 
  <br/>
- - 🌱 I’m currently learning TypeScript
+🌱 I’m currently learning TypeScript
  <br/>
-- ⛱️ In my free time, I read books, watch animes and play video games   
+⛱️ In my free time, I read books, watch animes and play video games   
  <br/>
- - 🏰 Hogwarts House : Gryffindor 🦁
+🏰 Hogwarts House : Gryffindor 🦁
     </p>
 
  <h2 align="center"> 🛠 Tech Stack</h2>
