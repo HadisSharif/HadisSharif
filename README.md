@@ -19,14 +19,13 @@ I'm Hadis Sharif. I'm a React Native Developer
     <a><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> </a>
     <a><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> </a>
     <a><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /> </a>
+<!--   <img src="" />
+  <img src="" />
+  <img src="" />
+  <img src="" /> -->
+</p>
   - 🛢 &nbsp;
     ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  <img src="" />
-  <img src="" />
-  <img src="" />
-  <img src="" />
-</p>
-
 
 🤝🏻  Feel Free to Contact me.....
 
