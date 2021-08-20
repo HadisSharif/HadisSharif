@@ -17,16 +17,9 @@ I'm Hadis Sharif. I'm a React Native Developer
     <a><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)" /> </a>
     <a><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=whit" /> </a>
     <a><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> </a>
-    <a><img src="" /> </a>
-    <a><img src="" /> </a>
+    <a><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> </a>
+    <a><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /> </a>
 </p>
-
-<!-- <h3 align="center">My Skills Are:</h3>
-<div class="center"> 
- /> <img src="" /><img src="" />
-<img src="" /> -->
- </div>
-<!-- </br> -->
 
 
 🤝🏻  Feel Free to Contact me.....
@@ -41,7 +34,7 @@ I'm Hadis Sharif. I'm a React Native Developer
 
 <!-- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> -->
+<!-- <img src=""/> -->
 
 
 
