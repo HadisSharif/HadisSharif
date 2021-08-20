@@ -20,7 +20,7 @@ I'm Hadis Sharif. I'm a React Native Developer
 
 🤝🏻  Feel Free to Contact me.....
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadis-sharif-83a64a36/) || [![Twitter](![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](hadis.sharif@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadis-sharif-83a64a36/) || (![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](hadis.sharif@gmail.com) 
 
 <!-- <img src="" /><img src=""/><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><img src=""/><img src="" />
  -->
