@@ -7,7 +7,7 @@
 <p align="left">
 💻 I’m currently working on React Native apps & PWA
 <br/>
-💡  I'm a Self-Motivated developer I love learning new technologies 
+ 💡 I'm a Self-Motivated developer I love learning new technologies 
 <br/>
 🌱 I’m currently learning TypeScript
 <br/>
