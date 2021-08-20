@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Hadis Sharif. I'm a React Native Developer
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 -  ✍️  In my free time, I watch animes and play video games
 
 🛠  Tech Stack
