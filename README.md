@@ -9,8 +9,6 @@
     <br />
     💡 I'm a Self-Motivated developer I love learning new technologies
     <br />
-    🌱 I’m currently learning TypeScript
-    <br />
     🔭 Looking for new oppurtunies and collaborations
     <br />
     📄 Here's my <a
