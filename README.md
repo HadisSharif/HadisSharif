@@ -11,9 +11,6 @@
     <br />
     🔭 Looking for new oppurtunies and collaborations
     <br />
-    📄 Here's my <a
-        href="https://github.com/HadisSharif/HadisSharif/files/7820688/Fatemeh.Sharif-React.Native.Developer.Resume.pdf">resume</a>
-    <br />
     ⛱️ In my free time, I read books, watch animes and play video games
     <br />
     🏰 Hogwarts House : Gryffindor 🦁
